@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://alocketh.github.io/sitemap.alocketh.gz
+Sitemap: https://alocketh.github.io/app/sitemap.alocketh.gz
+Sitemap: https://alocketh.github.io/assets/sitemap.alocketh.gz
+Sitemap: https://alocketh.github.io/css/sitemap.alocketh.gz
+Sitemap: https://alocketh.github.io/data/sitemap.alocketh.gz
+Sitemap: https://alocketh.github.io/includes/sitemap.alocketh.gz
+Sitemap: https://alocketh.github.io/item/sitemap.alocketh.gz
+Sitemap: https://alocketh.github.io/src/sitemap.alocketh.gz
